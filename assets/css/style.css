@@ -1,7 +1,7 @@
 body {
     font-family: "Raleway", sans-serif;
-    background-image: url(./assets/img/backg1.jpg);
-    background-color: #a40000;
+    background: url(../img/backg1.jpg) no-repeat center center fixed;
+    /* background-color: #a40000; */
     background-size: cover;
     background-position: center;
 }
