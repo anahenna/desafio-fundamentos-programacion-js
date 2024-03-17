@@ -1,6 +1,6 @@
 body {
     font-family: "Raleway", sans-serif;
-    background-image: url(/assets/img/backg1.jpg);
+    background-image: url(./assets/img/backg1.jpg);
     background-size: cover;
     background-position: center;
 }
